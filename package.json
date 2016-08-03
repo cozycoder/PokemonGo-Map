@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AHAAAAAAA/PokemonGo-Map.git"
+    "url": "git+https://github.com/cozycoder/PokemonGo-Map.git"
   },
   "keywords": [
     "Pokemon",
@@ -41,7 +41,7 @@
   "author": "Carl Taylor",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AHAAAAAAA/PokemonGo-Map/issues"
+    "url": "https://github.com/cozycoder/PokemonGo-Map/issues"
   },
-  "homepage": "https://github.com/AHAAAAAAA/PokemonGo-Map#readme"
+  "homepage": "https://github.com/cozycoder/PokemonGo-Map#readme"
 }
