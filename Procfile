@@ -1,1 +1,1 @@
-web: python runserver.py
+web: grunt build && python runserver.py
